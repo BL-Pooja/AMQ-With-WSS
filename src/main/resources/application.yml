@@ -1,0 +1,5 @@
+spring:
+  activemq:
+    broker-url: amqp+ssl://b-8d53b607-9b1d-4eda-9e81-c3d1f4e2cac5-1.mq.ap-south-1.amazonaws.com:5671
+    user: ejet
+    password: B4!dG3L@bZ520
